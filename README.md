@@ -10,7 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=henchoznoe&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&langs_count=3)
 
 # Contribution
-![Snake animation](https://github.com/henchoznoe/henchoznoe/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/henchoznoe/henchoznoe/blob/output/github-snake-dark.svg)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/henchoznoe) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:henchoznoe@gmail.com) 
