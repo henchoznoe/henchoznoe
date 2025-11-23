@@ -14,7 +14,7 @@
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,ts,react,nodejs,express,tailwind,mysql,supabase,prisma,git&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,ts,next,nodejs,express,tailwind,mysql,supabase,prisma,git,vercel&theme=light)](https://skillicons.dev)
 
 ## GitHub Stats
 
