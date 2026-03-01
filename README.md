@@ -18,15 +18,4 @@
 
 ## GitHub Stats
 
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=henchoznoe&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" 
-    alt="Stats GitHub de Noé Henchoz"
-    height="150"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=henchoznoe&hide_border=true&include_all_commits=true&count_private=true&langs_count=6&theme=transparent&layout=compact" 
-    alt="Top Langages"
-    height="150"
-  />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=henchoznoe&theme=catppuccin-macchiato&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
