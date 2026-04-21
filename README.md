@@ -1,24 +1,36 @@
-# Noé Henchoz
+# Hi, I'm Noé 👋
 
-<p align="left">
-  I'm a software engineering student from Switzerland, currently studying at HEIA-FR.<br/>
-  Passionate about coding, I enjoy building impactful projects and exploring new technologies.<br/>
-  Outside of tech, I'm into fitness and constantly striving to push my limits.
-</p>
+I'm a Software Engineering student at [HEIA-FR](https://heia-fr.ch) in Switzerland. 
+Passionate about coding, I focus on building impactful projects and exploring new technologies. When I'm not at my keyboard, you'll probably find me at the gym.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/henchoznoe/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<div align="left">
+  <a href="https://henchoznoe.ch">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio">
   </a>
-  </p>
+  <a href="https://www.linkedin.com/in/henchoznoe/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 
-## Tech Stack
+---
 
-[![My Skills](https://skillicons.dev/icons?i=java,ts,next,nodejs,express,tailwind,mysql,supabase,prisma,git,vercel&theme=light)](https://skillicons.dev)
+## 🚀 Current Focus
 
-## GitHub Stats
+- 🔭 Working on **[Belouga Tournament](https://belougatournament.ch/)**
+- 🌱 Learning **NestJS**
+- 📫 Reach me at: **henchoznoe@gmail.com**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=henchoznoe&theme=catppuccin-macchiato&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+## 🛠️ Tech Stack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henchoznoe&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,ts,next,nest,tailwind,postgres,supabase,prisma,docker,github,gitlab,vercel" alt="Tech Stack" />
+  </a>
+</div>
 
+## 📊 GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henchoznoe&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117" alt="Top Languages" height="150" />
+  <img src="https://streak-stats.demolab.com?user=henchoznoe&hide_border=true&theme=github_dark&background=0D1117" alt="GitHub Streak" height="150" />
+</div>
