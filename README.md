@@ -30,7 +30,4 @@ Passionate about coding, I focus on building impactful projects and exploring ne
 
 ## 📊 GitHub Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henchoznoe&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117" alt="Top Languages" height="150" />
-  <img src="https://streak-stats.demolab.com?user=henchoznoe&hide_border=true&theme=github_dark&background=0D1117" alt="GitHub Streak" height="150" />
-</div>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=henchoznoe&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
